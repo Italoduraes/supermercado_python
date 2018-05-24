@@ -42,3 +42,4 @@ def login():
 
   #executar
 banco.run(debug=True)
+
